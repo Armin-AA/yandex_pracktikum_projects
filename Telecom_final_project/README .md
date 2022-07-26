@@ -11,10 +11,10 @@ ROC_AUC >= 0.85;
 Обучены модели CatBoostClassifier и LGBMClassifier.
 Получены  у модели 
 CatBoostClassifier:
-ROC_AUC = 0,922, Accuracy = 0,88;
+ROC_AUC = 0.922, Accuracy = 0.88;
 
 LGBMClassifier:
-ROC_AUC = 0,906, Accuracy = 0,83
+ROC_AUC = 0.906, Accuracy = 0.83
 
 метрики у модели CatBoostClassifier ROC_AUC и Accuracy больше LGBMClassifier;
 
